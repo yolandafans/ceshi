@@ -6,3 +6,7 @@
 + composer
 + git https://github.com/ 
 + markdown 语法
+
+```PHP
+echo phpinfo();
+```
